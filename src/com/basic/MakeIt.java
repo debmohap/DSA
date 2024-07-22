@@ -1,4 +1,4 @@
-package class1;
+package com.basic;
 /*
 Given two integers A and B. A represents the count of mangoes and B represent the count
 of slices of mangoes. Mango can be cut into three slices of mangoes. A glass of mango

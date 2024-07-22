@@ -1,4 +1,4 @@
-package class2.arrays1;
+package com.arrays1;
 /*
 
 Given an array of size N and a no. of K return True

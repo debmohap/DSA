@@ -1,4 +1,4 @@
-package class1;
+package com.basic;
 /*
 Problem Description
 Given a number A. Return square root of the number if it is perfect square otherwise

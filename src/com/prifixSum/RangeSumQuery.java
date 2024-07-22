@@ -1,4 +1,4 @@
-package class3.prifixSum;
+package com.prifixSum;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package class1;
+package com.basic;
 
 /*
 Problem Description:

@@ -1,4 +1,4 @@
-package class2.arrays1;
+package com.arrays1;
 /*
 given an array of size N count the
 no. of elements which have at least one element grater then itself

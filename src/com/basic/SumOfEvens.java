@@ -1,4 +1,4 @@
-package class1;
+package com.basic;
 /*
 Problem Description
 You are given an integer A, you need to find and return the sum of all the even
