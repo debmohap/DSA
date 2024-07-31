@@ -1,4 +1,4 @@
-package com.carryForward;
+package com.subarrays;
 /*
 Problem Description
 You are given an integer array A of size N.
